@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
 
    // private static String Json_URL = "https://run.mocky.io/v3/4aafda61-78d8-4ffd-854e-aa46fe7e8e09";
-    private static String Json_URL = "https://run.mocky.io/v3/4ca7349c-2fcd-420b-baf6-3a0d7002623d";
+    private static String Json_URL = "https://run.mocky.io/v3/ae41c6aa-b811-42df-81ca-0045dae95bd3";
     List<GameModelClass> gameList;
     RecyclerView recyclerView;
     private Adaptery adaptery;
